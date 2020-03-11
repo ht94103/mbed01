@@ -9,7 +9,7 @@ DigitalOut greenLED(LED2);
 int main(){
 
   while(1){
-
+ 
     redLED = 1;
 
     greenLED = 0;
